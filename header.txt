@@ -1,0 +1,31 @@
+Header - updated Navbar
+
+All you need to do is replace Angela's navbar with this one and you should be all set
+
+<nav class="navbar navbar-light bg-light navbar-expand-md">
+
+    <a class="navbar-brand" href="/">DAILY JOURNAL</a>
+
+      <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse">
+
+        <span class="navbar-toggler-icon"></span>
+
+      </button>
+
+      <div class="collapse navbar-collapse">
+
+        <ul class="navbar-nav ml-auto">
+
+          <!-- 6 -->
+
+          <li class="nav-item" id="home"><a class="nav-link" href="/">HOME</a></li>
+
+          <li class="nav-item" id="about"><a class="nav-link" href="/about">ABOUT US</a></li>
+
+          <li class="nav-item" id="contact"><a class="nav-link" href="/contact">CONTACT US</a></li>
+
+        </ul>
+
+      </div>
+
+  </nav>
